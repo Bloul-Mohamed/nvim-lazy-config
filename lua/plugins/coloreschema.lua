@@ -8,4 +8,20 @@ return {
   {
     "wadackel/vim-dogrun",
   },
+  {
+    "ajmwagar/vim-deus",
+  },
+  { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+  {
+    "scottmckendry/cyberdream.nvim",
+    lazy = false,
+    priority = 1000,
+  },
+  { "EdenEast/nightfox.nvim" }, -- lazy
+  {
+    "folke/tokyonight.nvim",
+    lazy = false,
+    priority = 1000,
+    opts = {},
+  },
 }
