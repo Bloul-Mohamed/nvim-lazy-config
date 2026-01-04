@@ -1,9 +1,7 @@
 return {
   {
     "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "catppuccin",
-    },
+    opts = {},
   },
   {
     "tribela/vim-transparent",
