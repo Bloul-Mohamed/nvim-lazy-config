@@ -12,11 +12,6 @@ return {
     "ajmwagar/vim-deus",
   },
   { "catppuccin/nvim", name = "catppuccin", priority = 1000, lazy = false },
-  {
-    "scottmckendry/cyberdream.nvim",
-    lazy = false,
-    priority = 1000,
-  },
   { "EdenEast/nightfox.nvim" }, -- lazy
   {
     "folke/tokyonight.nvim",
